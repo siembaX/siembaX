@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**siembaX/siembaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Software Engineering @ALX
@@ -12,5 +6,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything Tech
 - 📫 How to reach me: itssiemba@outlook.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love my coffee
--->
+- ⚡ Fun fact: I love my 🍵 
